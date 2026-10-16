@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb703,100:d00000&height=150&section=header&text=This%20is%20fine.&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=FB5607&center=true&vCenter=true&width=800&lines=I%27M+OKAY+WITH+THE+EVENTS+THAT+ARE+UNFOLDING+CURRENTLY.;todo+compila+(creo);%C2%BFerrores%3F+%C2%BFqu%C3%A9+errores%3F;todo+bajo+control;git+push+y+a+rezar;everything+is+fine.;hoy+s%C3%AD+lo+termino;no+pasa+nada.+nada." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=FB5607&center=true&vCenter=true&width=800&lines=i%27m+okay+with+the+events+that+are+unfolding+currently;todo+compila+(creo);%C2%BFerrores%3F+%C2%BFqu%C3%A9+errores%3F;todo+bajo+control;git+push+y+a+rezar;everything+is+fine;hoy+s%C3%AD+lo+termino;one+problem+at+a+time;where%27s+the+documentation%3F" />
 </p>
 
 Holap, estudio programación y aquí voy dejando las prácticas de clase
