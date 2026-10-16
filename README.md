@@ -28,4 +28,5 @@ y los proyectos que empiezo por gusto y termino... a veces.
 
 <p align="center"><i>todo sale mejor cuando te lo tomas con <s>filosofía</s> chocolate</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d00000,100:ffb703&height=100&section=footer&text=everything%20is%20fine.%20probably.&fontSize=24&fontColor=ffffff" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d00000,100:ffb703&height=100&section=footer&text=That%27s%20okay%2C%20things%20are%20going%20to%20be%20okay.&fontSize=24&fontColor=ffffff" width="100%" />
